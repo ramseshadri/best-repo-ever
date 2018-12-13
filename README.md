@@ -2,7 +2,8 @@
 public class sample{
 	
 	static void method(){
-  //Second branch change
+
+   //Sample change
 		
 	}
 
