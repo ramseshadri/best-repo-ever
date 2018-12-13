@@ -2,7 +2,7 @@
 public class sample{
 	
 	static void method(){
-
+  //Sample change
 		
 	}
 
